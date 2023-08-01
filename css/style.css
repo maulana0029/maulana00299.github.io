@@ -1030,10 +1030,10 @@ textarea {
 ::-webkit-calendar-picker-indicator {
   filter: invert(1);
 }
-.pengaduan{
+.pengaduan1{
   margin-top: 180px;
   height: 840px;
-  width: 60%;
+  width: 500px;
   background-color: rgba(255,255,255,0.13);
   position: absolute;
   transform: translate(-50%,-50%);
